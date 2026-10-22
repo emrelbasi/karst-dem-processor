@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article given below."
+type: software
+title: "KarstDEMProcessor"
+abstract: "Selective depression filling for hydrological DEM conditioning in karst terrains."
+version: 1.0.0
+date-released: 2026-10-23
+license: MIT
+repository-code: "https://github.com/emrelbasi/karst-dem-processor"
+keywords:
+  - karst
+  - DEM conditioning
+  - depression filling
+  - hydrology
+  - flow routing
+authors:
+  - family-names: "Elbaşı"
+    given-names: "Emre"
+    affiliation: "Nevşehir Hacı Bektaş Veli University"
+    orcid: "https://orcid.org/0000-0001-5111-0435"
+preferred-citation:
+  type: article
+  title: "Classification-Driven Selective Depression Filling for Hydrological DEM Conditioning in Karst Terrains"
+  authors:
+    - family-names: "Elbaşı"
+      given-names: "Emre"
+      affiliation: "Nevşehir Hacı Bektaş Veli University"
+      orcid: "https://orcid.org/0000-0001-5111-0435"
+  journal: "Environmental Modelling & Software"
+  year: 2026
+  doi: "10.1016/j.envsoft.2026.107217"
