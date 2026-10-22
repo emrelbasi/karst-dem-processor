@@ -4,7 +4,7 @@ Selective depression filling for hydrological DEM conditioning in karst terrains
 
 Standard DEM preprocessing fills every closed depression before flow routing. In karst, many of these depressions (dolines, uvalas, poljes) are real landforms that drain underground, and filling them sends water along surface channels that do not exist. KarstDEMProcessor classifies each depression as a karst feature or a DEM artefact from its morphometry, fills only the artefacts and keeps the karst depressions as closed sinks that collect the surface flow of their catchments.
 
-This is the code described in Elbasi (2026), (https://doi.org/10.1016/j.envsoft.2026.107217.).
+This is the code described in Elbasi (2026), https://doi.org/10.1016/j.envsoft.2026.107217.
 
 ## How it works
 
@@ -95,7 +95,7 @@ The default values were calibrated on the 30 m FABDEM of the Western Taurus Moun
 
 If you use this code, please cite the article:
 
-> Elbaşı, E. (2026). Classification-Driven Selective Depression Filling for Hydrological DEM Conditioning in Karst Terrains. *Environmental Modelling & Software*. https://doi.org/10.1016/j.envsoft.2026.107217
+> Elbasi, E. (2026). Classification-driven selective depression filling for hydrological DEM conditioning in karst terrains. *Environmental Modelling & Software*. https://doi.org/10.1016/j.envsoft.2026.107217
 
 
 ## License

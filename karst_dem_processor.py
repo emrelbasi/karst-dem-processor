@@ -7,7 +7,7 @@ circularity. Artefacts are filled, while each karst depression is kept as a
 closed sink.
 
 Reference:
-    Elbaşı, E. (2026). Classification-driven selective depression filling for
+    Elbasi, E. (2026). Classification-driven selective depression filling for
     hydrological DEM conditioning in karst terrains. Environmental Modelling
     & Software.
 """
